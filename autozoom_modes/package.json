@@ -1,0 +1,17 @@
+{
+  "name": "autozoom_modes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@huddly/device-api-usb": "^0.3.4",
+    "@huddly/sdk": "^0.7.0",
+    "@huddly/sdk-interfaces": "^0.2.0"
+  }
+}

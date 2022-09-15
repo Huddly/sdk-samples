@@ -1,0 +1,19 @@
+{
+  "name": "framing_modes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@huddly/device-api-ip": "^0.2.1",
+    "@huddly/device-api-usb": "^0.3.4",
+    "@huddly/sdk": "^0.8.0",
+    "@huddly/sdk-interfaces": "^0.2.0",
+    "semver": "^7.3.8"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "smartbase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@huddly/device-api-ip": "^0.2.1",
+    "@huddly/device-api-usb": "^0.4.1",
+    "@huddly/sdk": "github:Huddly/sdk#users/pkhansen/smartbase-camera-support",
+    "@huddly/sdk-interfaces": "^0.2.7"
+  }
+}
